@@ -16,14 +16,13 @@
 		<ul class="side-menu">
 			<li><a href="#" class="active"><i
 					class="fa-solid fa-gauge-high icon"></i>Dashboard</a></li>
-			<li><a href="#" style="font-weight: 600;"><i
-					class="fa-solid fa-screwdriver-wrench icon"></i>Home<i
-					class="fa-solid fa-caret-down icon-right"></i></a>
-				<ul class="side-dropdown">
-					<li><a href="bannar">Banner</a></li>
+			<li><a href="addItems" style="font-weight: 600;"><i
+					class="fa-solid fa-screwdriver-wrench icon"></i>Item Master</a>
+				<!-- <ul class="side-dropdown">
+					<li><a href="addItems">Add Items</a></li>
 					<li><a href="#">Features</a></li>
 					<li><a href="#">Our Products</a></li>
-				</ul></li>
+				</ul> --></li>
 			
 		</ul>
 	</section>

@@ -41,24 +41,10 @@ public String adminLogin(@ModelAttribute("login") LoginAdmin loginAdmin,Model mo
 	}
 }
 
-//Add Product jsp page for Admin
-@GetMapping("/addProducts")
-public String addProducts(Model model) {
-	return "addProducts";
-}
-
-//Add Features jsp page for Admin
-@GetMapping("/addFeatures")
-public String addFeatures(Model model) {
-	return "addFeatures";
-}
-
-
-//Add Pach Payment Ecosystem jsp page for Admin
-@GetMapping("/addPachPaymentEcosystem")
-public String addPachPaymentEcosystem(Model model) {
-	return "addPachPaymentEcosystem";
-}
+  @GetMapping("/addItems")
+  public String addItems() {
+	  return "AddItems";
+  }
 
 //LogOut Api
 @GetMapping("/logout")
