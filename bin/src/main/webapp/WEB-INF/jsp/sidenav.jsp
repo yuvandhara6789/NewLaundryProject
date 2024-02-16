@@ -17,10 +17,10 @@
 			<li><a href="#" class="active"><i
 					class="fa-solid fa-gauge-high icon"></i>Dashboard</a></li>
 			<li><a href="#" style="font-weight: 600;"><i
-					class="fa-solid fa-screwdriver-wrench icon"></i>Master<i
+					class="fa-solid fa-screwdriver-wrench icon"></i>Home<i
 					class="fa-solid fa-caret-down icon-right"></i></a>
 				<ul class="side-dropdown">
-					<li><a href="getservicePage">Service Master</a></li>
+					<li><a href="bannar">Banner</a></li>
 					<li><a href="#">Features</a></li>
 					<li><a href="#">Our Products</a></li>
 				</ul></li>
